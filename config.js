@@ -50,9 +50,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'Turbo CB'
 global.premium = 'true'
 global.packname = 'Turbo CB WP BOT' 
-global.author = 'CHARBEL' 
-glob 
-
+global.author = 'CHARBEL'
 
 global.wait = 'PLEASE WAIT UPLOADING '
 global.rwait = '🇱🇰'
